@@ -10,5 +10,5 @@ Func antis()
 		Exit
 	EndIf
 	
-	/** if (LoadLibrary("SbieDll.dll") == true) **/
+	/** if (LoadLibrary("SbieDll.dll") == true) ***/
 EndFunc
