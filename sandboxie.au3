@@ -9,4 +9,6 @@ Func antis()
 	If ProcessExists("VMwaretray.exe") Then
 		Exit
 	EndIf
+	
+	/** if (LoadLibrary("SbieDll.dll") == true) **/
 EndFunc
